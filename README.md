@@ -33,25 +33,16 @@ Estou focado em desenvolvimento Front-End.
 
 ---
 
-## 🛠️ Linguagens de programação:
+## 🛠️ Tecnologias:
 
-### Front-end
 
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
+-<img src="https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000">
+<img src="https://img.shields.io/badge/Linguagem_C-283593?style=for-the-badge&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+
 
 > "Code is not just about solving problems. It's about building solutions!
 
-<!--
-**RafaelHabyb/RafaelHabyb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
