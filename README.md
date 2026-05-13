@@ -10,7 +10,7 @@ Estou focado em desenvolvimento Front-End.
 ## 🌐 Onde você pode me encontrar:
 
 <p align="left">
-  <a href="https://github.com/raloidasilva355-web/RafaelHabybOliveira">
+  <a href="https://github.com/RafaelHabyb">
     <img src="https://img.shields.io/badge/GitHub-RAFAELHABYBOLIVEIRA-181717?style=for-the-badge&logo=github"/>
   </a> 
   <a href="https://instagram.com/rafaelhabyb">
