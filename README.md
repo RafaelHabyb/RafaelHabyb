@@ -43,6 +43,3 @@ Estou focado em desenvolvimento Front-End.
 
 
 > "Code is not just about solving problems. It's about building solutions!
-
-- ⚡ Fun fact: ...
--->
