@@ -10,16 +10,16 @@ Estou focado em desenvolvimento Front-End.
 ## 🌐 Onde você pode me encontrar:
 
 <p align="left">
-  <a href="https://github.com/RafaelHabyb">
+  <a href="https://github.com/RafaelHabyb" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-RAFAELHABYBOLIVEIRA-181717?style=for-the-badge&logo=github"/>
   </a> 
-  <a href="https://instagram.com/rafaelhabyb">
+  <a href="https://instagram.com/rafaelhabyb"target="_blank">
     <img src="https://img.shields.io/badge/Instagram-@RAFAELHABYB-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="mailto:rafaelhabyb.emp@gmail.com">
+  <a href="mailto:rafaelhabyb.emp@gmail.com"target="_blank">
   <img src="https://img.shields.io/badge/Email-RAFAELHABYB.EMP%40GMAIL.COM-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/feed/">
+<a href="www.linkedin.com/in/rafaelhabyb"target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-RAFAELHABYB-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
