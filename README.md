@@ -27,9 +27,8 @@ Estou focado em desenvolvimento Front-End.
 
 ## 🧠 O que estou aprendendo:
 
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000">
+<img src="https://skillicons.dev/icons?i=html" width="50"/> <img src="https://skillicons.dev/icons?i=css" width="50"/>
+<img src="https://skillicons.dev/icons?i=js" width="50"/> <img src="https://skillicons.dev/icons?i=c" width="50"/>
 
 ---
 
@@ -40,6 +39,8 @@ Estou focado em desenvolvimento Front-End.
 <img src="https://img.shields.io/badge/Linguagem_C-283593?style=for-the-badge&logo=c&logoColor=white">
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 
 
 > "Code is not just about solving problems. It's about building solutions!
