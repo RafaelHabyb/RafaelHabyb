@@ -55,6 +55,14 @@ Uso este espaço para registrar meu aprendizado, organizar meus projetos e acomp
 
 Meu foco atual é consolidar os fundamentos de programação e explorar as possibilidades da inteligência artificial e da automação.
 
+## 📊 Minha atividade no GitHub
+
+<div align="center">
+
+[![Sequência de contribuições](https://streak-stats.demolab.com?user=RafaelHabyb&locale=pt_BR&background=111111&border=D5B56A&stroke=D5B56A&ring=D5B56A&fire=D5B56A&currStreakNum=F3F1EB&sideNums=F3F1EB&currStreakLabel=D5B56A&sideLabels=D5B56A&dates=BCB9B1)](https://github.com/RafaelHabyb)
+
+</div>
+
 ---
 
 <div align="center">
