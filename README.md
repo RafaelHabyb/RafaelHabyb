@@ -1,70 +1,68 @@
+<div align="center">
 
 # Olá, eu sou Rafael Habyb! 👋
 
-<div align="center">
+### Programação · Inteligência Artificial · Automação
 
-### 💻 Estudante de Sistemas de Informação | UFU
+🎓 Estudante de Sistemas de Informação na UFU
 
-Desenvolvimento Front-End • Programação em C • Aprendizado contínuo
+Construindo minha base, linha por linha.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelhabyb/)
-[![Portfólio](https://img.shields.io/badge/Portfólio-24292e?style=for-the-badge&logo=githubpages&logoColor=white)](https://rafaelhabyb.github.io/PortfolioRafael/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaelhabyb.emp@gmail.com)
+[![Portfólio](https://img.shields.io/badge/PORTFÓLIO-D5B56A?style=for-the-badge&logo=github&logoColor=111111)](https://rafaelhabyb.github.io/PortfolioRafael/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge)](https://www.linkedin.com/in/rafaelhabyb/)
+[![Email](https://img.shields.io/badge/CONTATO-111111?style=for-the-badge&logo=gmail&logoColor=D5B56A)](mailto:rafaelhabyb.emp@gmail.com)
+
+**Aprender. Criar. Evoluir.**
 
 </div>
 
 ---
 
-### 👨‍💻 Sobre mim
+## ✦ Sobre mim
 
-Sou estudante de **Sistemas de Informação na Universidade Federal de Uberlândia (UFU)**, com interesse em desenvolvimento de software e tecnologia.
+Sou estudante de **Sistemas de Informação na Universidade Federal de Uberlândia (UFU)**, com interesse em programação, inteligência artificial e automação.
 
-- 🎓 Graduando em Sistemas de Informação — UFU
-- 🚀 Interesse em desenvolvimento Front-End
-- 📚 Estudando programação em C, algoritmos e tecnologias web
-- 🎯 Buscando evoluir por meio de projetos práticos e novas experiências
-- 📍 Minas Gerais, Brasil
+Quero aprender a criar soluções que simplifiquem tarefas, facilitem pesquisas e ajudem as pessoas a economizar tempo.
 
-### 🛠️ Tecnologias e ferramentas
+- 📚 Tenho uma boa base em HTML e C.
+- 🌱 Estou desenvolvendo meus conhecimentos em CSS e JavaScript.
+- 🤖 Utilizo o ChatGPT como tutor e apoio nos estudos e projetos.
+- 🛠️ Aprendo por meio de exercícios acadêmicos e projetos práticos.
+- 📍 Minas Gerais, Brasil.
+
+## ⚙️ Tecnologias que estudo
 
 <div align="center">
 
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![C](https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c&logoColor=D5B56A)
+![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=D5B56A)
+![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css&logoColor=D5B56A)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=D5B56A)
 
 </div>
 
-### 📂 Projetos em destaque
+## 💻 Projetos em destaque
 
 | Projeto | Descrição | Tecnologias |
-|---|---|---|
-| [🌐 Portfólio Pessoal](https://github.com/RafaelHabyb/PortfolioRafael) | Site pessoal para apresentar meus projetos e informações profissionais. [Ver site](https://rafaelhabyb.github.io/PortfolioRafael/) | HTML, CSS, JavaScript |
-| [💻 Projetos em C](https://github.com/RafaelHabyb/ProjetoEmC) | Exercícios de lógica, estruturas de decisão e repetição, vetores, matrizes e structs. | C |
+| :--- | :--- | :--- |
+| [Portfólio pessoal](https://github.com/RafaelHabyb/PortfolioRafael) | Minha trajetória, formação, projetos, certificados e contatos. [Acessar site ↗](https://rafaelhabyb.github.io/PortfolioRafael/) | HTML, CSS e JavaScript |
+| [Exercícios em C](https://github.com/RafaelHabyb/ProjetoEmC) | Atividades de lógica, estruturas de decisão e repetição, vetores, matrizes e structs. | C |
+| [Perguntas Bíblicas](https://rafaelhabyb.github.io/PortfolioRafael/projetos/perguntas-biblicas.html) | Projeto de estudo com dez perguntas para praticar HTML e campos de formulário. | HTML |
 
-### 📊 Estatísticas do GitHub
+## 🧭 Minha jornada
 
-<div align="center">
+Uso este espaço para registrar meu aprendizado, organizar meus projetos e acompanhar minha evolução.
 
-![GitHub Streak](https://streak-stats.demolab.com?user=RafaelHabyb&theme=transparent&hide_border=true)
-
-</div>
-
-### 📫 Vamos nos conectar?
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/rafaelhabyb/)
-- 🌐 [Meu portfólio](https://rafaelhabyb.github.io/PortfolioRafael/)
-- 📧 [Email profissional](mailto:rafaelhabyb.emp@gmail.com)
+Meu foco atual é consolidar os fundamentos de programação e explorar as possibilidades da inteligência artificial e da automação.
 
 ---
 
 <div align="center">
 
-*Aprendendo, desenvolvendo e evoluindo a cada projeto.* 🚀
+### Vamos conversar?
+
+[Portfólio](https://rafaelhabyb.github.io/PortfolioRafael/) · [LinkedIn](https://www.linkedin.com/in/rafaelhabyb/) · [E-mail](mailto:rafaelhabyb.emp@gmail.com)
+
+**Curiosidade + prática + evolução**
 
 </div>
-  
