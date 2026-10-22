@@ -1,46 +1,70 @@
-# Oi 👋, Eu sou Rafael Habyb
 
-🚀 **Cursando Graduação em Sistemas de Informação- UFU**  
-Brasil
+# Olá, eu sou Rafael Habyb! 👋
 
-Estou focado em desenvolvimento Front-End.
+<div align="center">
 
----
+### 💻 Estudante de Sistemas de Informação | UFU
 
-## 🌐 Onde você pode me encontrar:
+Desenvolvimento Front-End • Programação em C • Aprendizado contínuo
 
-<p align="left">
-  <a href="https://github.com/RafaelHabyb" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-RAFAELHABYBOLIVEIRA-181717?style=for-the-badge&logo=github"/>
-  </a> 
-  <a href="https://instagram.com/rafaelhabyb"target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@RAFAELHABYB-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="mailto:rafaelhabyb.emp@gmail.com"target="_blank">
-  <img src="https://img.shields.io/badge/Email-RAFAELHABYB.EMP%40GMAIL.COM-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="www.linkedin.com/in/rafaelhabyb"target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-RAFAELHABYB-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelhabyb/)
+[![Portfólio](https://img.shields.io/badge/Portfólio-24292e?style=for-the-badge&logo=githubpages&logoColor=white)](https://rafaelhabyb.github.io/PortfolioRafael/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaelhabyb.emp@gmail.com)
+
+</div>
 
 ---
 
-## 🧠 O que estou aprendendo:
+### 👨‍💻 Sobre mim
 
-<img src="https://skillicons.dev/icons?i=html" width="50"/> <img src="https://skillicons.dev/icons?i=css" width="50"/>
-<img src="https://skillicons.dev/icons?i=js" width="50"/> <img src="https://skillicons.dev/icons?i=c" width="50"/>
+Sou estudante de **Sistemas de Informação na Universidade Federal de Uberlândia (UFU)**, com interesse em desenvolvimento de software e tecnologia.
+
+- 🎓 Graduando em Sistemas de Informação — UFU
+- 🚀 Interesse em desenvolvimento Front-End
+- 📚 Estudando programação em C, algoritmos e tecnologias web
+- 🎯 Buscando evoluir por meio de projetos práticos e novas experiências
+- 📍 Minas Gerais, Brasil
+
+### 🛠️ Tecnologias e ferramentas
+
+<div align="center">
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+### 📂 Projetos em destaque
+
+| Projeto | Descrição | Tecnologias |
+|---|---|---|
+| [🌐 Portfólio Pessoal](https://github.com/RafaelHabyb/PortfolioRafael) | Site pessoal para apresentar meus projetos e informações profissionais. [Ver site](https://rafaelhabyb.github.io/PortfolioRafael/) | HTML, CSS, JavaScript |
+| [💻 Projetos em C](https://github.com/RafaelHabyb/ProjetoEmC) | Exercícios de lógica, estruturas de decisão e repetição, vetores, matrizes e structs. | C |
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=RafaelHabyb&theme=transparent&hide_border=true)
+
+</div>
+
+### 📫 Vamos nos conectar?
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/rafaelhabyb/)
+- 🌐 [Meu portfólio](https://rafaelhabyb.github.io/PortfolioRafael/)
+- 📧 [Email profissional](mailto:rafaelhabyb.emp@gmail.com)
 
 ---
 
-## 🛠️ Tecnologias:
+<div align="center">
 
+*Aprendendo, desenvolvendo e evoluindo a cada projeto.* 🚀
 
--<img src="https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000">
-<img src="https://img.shields.io/badge/Linguagem_C-283593?style=for-the-badge&logo=c&logoColor=white">
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-
-
-> "Code is not just about solving problems. It's about building solutions!
+</div>
+  
